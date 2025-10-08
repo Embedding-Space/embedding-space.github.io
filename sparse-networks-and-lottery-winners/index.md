@@ -184,3 +184,5 @@ This is why artificial neural networks work.
 Even if your problem is very hard, even if the odds of finding a solution are very small, if you throw 10 to the 1000 solutions at it, you're almost sure to get a working one, and probably pretty quickly in the cosmic scheme of things.
 
 This is the fundamental trick that makes artificial neural networks possible. This is how we cheat at the game. Combinatorics and graph theory and subnetworks and big, big, just stupidly big numbers.
+
+https://github.com/Embedding-Space/sparse-networks-and-lottery-winners
