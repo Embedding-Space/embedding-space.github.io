@@ -185,4 +185,4 @@ Even if your problem is very hard, even if the odds of finding a solution are ve
 
 This is the fundamental trick that makes artificial neural networks possible. This is how we cheat at the game. Combinatorics and graph theory and subnetworks and big, big, just stupidly big numbers.
 
-https://github.com/Embedding-Space/sparse-networks-and-lottery-winners
+[https://github.com/Embedding-Space/sparse-networks-and-lottery-winners](https://github.com/Embedding-Space/sparse-networks-and-lottery-winners)
